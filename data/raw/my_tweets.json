@@ -1,0 +1,17 @@
+{
+  "1": {
+    "sentiment_label": "positive",
+    "text_of_tweet": "The new update is smooth and the app finally feels fast again.",
+    "tweet_url": "https://example.com/tweet/1"
+  },
+  "2": {
+    "sentiment_label": "neutral",
+    "text_of_tweet": "The product launch is scheduled for Friday morning.",
+    "tweet_url": "https://example.com/tweet/2"
+  },
+  "3": {
+    "sentiment_label": "negative",
+    "text_of_tweet": "My flight was delayed again and customer service did not help.",
+    "tweet_url": "https://example.com/tweet/3"
+  }
+}

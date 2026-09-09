@@ -1,0 +1,13 @@
+jupyter
+ipykernel
+numpy
+pandas
+matplotlib
+scikit-learn
+nltk
+spacy
+vaderSentiment
+gensim
+torch
+transformers
+simpletransformers==0.65.1
